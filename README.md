@@ -1,4 +1,4 @@
-https://komarev.com/ghpvc/?username=ahmedse1&color=brightgreen&style=flat&label=Profile+Views
+![Profile Views](https://komarev.com/ghpvc/?username=ahmedse1&color=brightgreen&style=flat&label=Profile+Views)
 
 ### Hi there 👋
 
