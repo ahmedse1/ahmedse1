@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmedse1" alt="ahmedse1" /></a> </p>
 
-- 🎥 I’m currently working on: **Development and Deployment of angular app in Azure Cloud**
+- 🎥 I’m currently working on: **Development and Deployment of microservices using SpringBoot, Docker, Kubernetes and other tools**
 
 - 🌱 I’m currently learning: **Azure Cloud Services and DevOps**
 
