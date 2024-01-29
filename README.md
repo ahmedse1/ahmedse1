@@ -28,5 +28,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmedse1&show_icons=true&locale=en" alt="ahmedse1" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedse1&" alt="ahmedse1" /></p>
-
-<!--<a href="https://app.daily.dev/jhardaway"><img src="https://api.daily.dev/devcards/7942d829e7814937b4c3c05e772c5989.png?r=0a9" width="400" alt="Jerome Hardaway's Dev Card"/></a> -->
